@@ -47,7 +47,7 @@ export default function Navbar(){
                       }}}
                 >
                     <MenuItem onClick={handleClose}>
-                        <Link className="noDecor" to='/'>About Me</Link>
+                        <Link className="noDecor" to='/personal'>About Me</Link>
                     </MenuItem>
                     <MenuItem onClick={handleClose}>
                         <Link className="noDecor" to='/education'>Education</Link>
