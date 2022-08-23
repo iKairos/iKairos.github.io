@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/iKairos.github.io/static/css/main.a1e3442d.css",
-    "main.js": "/iKairos.github.io/static/js/main.28be2514.js",
-    "static/js/787.ada81fb9.chunk.js": "/iKairos.github.io/static/js/787.ada81fb9.chunk.js",
-    "static/media/Manila COVID Active Cases (July - August).gif": "/iKairos.github.io/static/media/Manila COVID Active Cases (July - August).def7051848ceb00d7bff.gif",
-    "static/media/Agusan del Sur - Bah-bah-Talacogon Road - Typhoon Odette.png": "/iKairos.github.io/static/media/Agusan del Sur - Bah-bah-Talacogon Road - Typhoon Odette.2e88f276804f6f3fa8fb.png",
-    "static/media/PHMAP.png": "/iKairos.github.io/static/media/PHMAP.0d63acb07f3da37ee6b1.png",
-    "static/media/TUPSEAL.png": "/iKairos.github.io/static/media/TUPSEAL.c73fab20a343f0683fe1.png",
-    "static/media/MTCSEAL.png": "/iKairos.github.io/static/media/MTCSEAL.e19ff33eb6e0a5be39ca.png",
-    "static/media/PhilSA.png": "/iKairos.github.io/static/media/PhilSA.1379d49bf6fb468fbea4.png",
-    "static/media/algofilipino.png": "/iKairos.github.io/static/media/algofilipino.41cd250ab965a56d519a.png",
-    "index.html": "/iKairos.github.io/index.html",
-    "main.a1e3442d.css.map": "/iKairos.github.io/static/css/main.a1e3442d.css.map",
-    "main.28be2514.js.map": "/iKairos.github.io/static/js/main.28be2514.js.map",
-    "787.ada81fb9.chunk.js.map": "/iKairos.github.io/static/js/787.ada81fb9.chunk.js.map"
+    "main.css": "/personal/static/css/main.a1e3442d.css",
+    "main.js": "/personal/static/js/main.65896802.js",
+    "static/js/787.ada81fb9.chunk.js": "/personal/static/js/787.ada81fb9.chunk.js",
+    "static/media/Manila COVID Active Cases (July - August).gif": "/personal/static/media/Manila COVID Active Cases (July - August).def7051848ceb00d7bff.gif",
+    "static/media/Agusan del Sur - Bah-bah-Talacogon Road - Typhoon Odette.png": "/personal/static/media/Agusan del Sur - Bah-bah-Talacogon Road - Typhoon Odette.2e88f276804f6f3fa8fb.png",
+    "static/media/PHMAP.png": "/personal/static/media/PHMAP.0d63acb07f3da37ee6b1.png",
+    "static/media/TUPSEAL.png": "/personal/static/media/TUPSEAL.c73fab20a343f0683fe1.png",
+    "static/media/MTCSEAL.png": "/personal/static/media/MTCSEAL.e19ff33eb6e0a5be39ca.png",
+    "static/media/PhilSA.png": "/personal/static/media/PhilSA.1379d49bf6fb468fbea4.png",
+    "static/media/algofilipino.png": "/personal/static/media/algofilipino.41cd250ab965a56d519a.png",
+    "index.html": "/personal/index.html",
+    "main.a1e3442d.css.map": "/personal/static/css/main.a1e3442d.css.map",
+    "main.65896802.js.map": "/personal/static/js/main.65896802.js.map",
+    "787.ada81fb9.chunk.js.map": "/personal/static/js/787.ada81fb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1e3442d.css",
-    "static/js/main.28be2514.js"
+    "static/js/main.65896802.js"
   ]
 }
