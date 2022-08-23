@@ -21,7 +21,7 @@ function App() {
           <Navbar/> <br/><br/><br/>
           {/* Route Switches */}
           <Routes>
-            <Route path = "/" exact element={<AboutMe/>}></Route>
+            <Route path = "/personal" exact element={<AboutMe/>}></Route>
             <Route path = "/education" exact element={<Education/>}></Route>
             {/*<Route path = "/whatido" exact element={<Skills/>}></Route>*/}
             <Route path = "/certificates" exact element={<Certificates/>}></Route>

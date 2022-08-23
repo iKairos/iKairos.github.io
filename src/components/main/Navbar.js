@@ -22,7 +22,7 @@ export default function Navbar(){
     return (
         <header className="navbar">
             <div>
-                <h2 className="navlink"><Link className="noDecor" to='/'>about me</Link></h2>
+                <h2 className="navlink"><Link className="noDecor" to='/personal'>about me</Link></h2>
                 <h2 className="navlink"><Link className="noDecor" to='/education'>education</Link></h2>
                 {/*<h2 className="navlink"><Link className="noDecor" to='/whatido'>what i do</Link></h2>*/}
                 <h2 className="navlink"><Link className="noDecor" to='/industry'>industry</Link></h2>
