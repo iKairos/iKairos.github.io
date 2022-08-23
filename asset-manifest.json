@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal/static/css/main.a1e3442d.css",
-    "main.js": "/personal/static/js/main.5e1a2a41.js",
+    "main.js": "/personal/static/js/main.8358649a.js",
     "static/js/787.ada81fb9.chunk.js": "/personal/static/js/787.ada81fb9.chunk.js",
     "static/media/Manila COVID Active Cases (July - August).gif": "/personal/static/media/Manila COVID Active Cases (July - August).def7051848ceb00d7bff.gif",
     "static/media/Agusan del Sur - Bah-bah-Talacogon Road - Typhoon Odette.png": "/personal/static/media/Agusan del Sur - Bah-bah-Talacogon Road - Typhoon Odette.2e88f276804f6f3fa8fb.png",
@@ -12,11 +12,11 @@
     "static/media/algofilipino.png": "/personal/static/media/algofilipino.41cd250ab965a56d519a.png",
     "index.html": "/personal/index.html",
     "main.a1e3442d.css.map": "/personal/static/css/main.a1e3442d.css.map",
-    "main.5e1a2a41.js.map": "/personal/static/js/main.5e1a2a41.js.map",
+    "main.8358649a.js.map": "/personal/static/js/main.8358649a.js.map",
     "787.ada81fb9.chunk.js.map": "/personal/static/js/787.ada81fb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1e3442d.css",
-    "static/js/main.5e1a2a41.js"
+    "static/js/main.8358649a.js"
   ]
 }
