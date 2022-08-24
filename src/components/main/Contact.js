@@ -101,7 +101,7 @@ export default function Contact(){
                   <Grid item xs={6}>
                     <div style={{lineHeight: 5}}>
                         <TextField label="Full Name" variant="outlined" sx={fieldDesign}/> <br/>
-                        <TextField label="E-mail" variant="outlined" sx={fieldDesign}/> <br/>
+                        <TextField label="E-mail" type='email' variant="outlined" sx={fieldDesign}/> <br/>
                         <TextField label="Subject" variant="outlined" sx={fieldDesign}/> <br/>
                         <TextField rows={10} multiline label="Message" variant="outlined" sx={fieldDesign}/> <br/>
                         <Button sx={buttonDesign} key="1">Submit</Button>
