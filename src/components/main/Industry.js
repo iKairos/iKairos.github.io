@@ -41,7 +41,7 @@ export default function Industry(){
                     </Grid>
                     <Grid item xs={2} sm={4} md={4}>
                         <Item style={{height: '300px'}}>
-                            <h1 className="gridHead3">Space Data Mobilization and Applications Intern</h1>
+                            <h1 className="gridHead2">Space Data Mobilization and Applications Intern</h1>
                             <h4 className="highlight gridHead4" style={{lineHeight: 0}}> April - July 2022</h4>
                             <Chip avatar={<Avatar src={philsa} />} style={{color: '#fff'}} label="Philippine Space Agency" variant="outlined" />
                             <p className="gridPar2">
