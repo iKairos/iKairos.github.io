@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal/static/css/main.8f4f5d8d.css",
-    "main.js": "/personal/static/js/main.03c38216.js",
+    "main.css": "/personal/static/css/main.f5496807.css",
+    "main.js": "/personal/static/js/main.8df5ca00.js",
     "static/js/787.ada81fb9.chunk.js": "/personal/static/js/787.ada81fb9.chunk.js",
     "static/media/Manila COVID Active Cases (July - August).gif": "/personal/static/media/Manila COVID Active Cases (July - August).def7051848ceb00d7bff.gif",
     "static/media/Agusan del Sur - Bah-bah-Talacogon Road - Typhoon Odette.png": "/personal/static/media/Agusan del Sur - Bah-bah-Talacogon Road - Typhoon Odette.2e88f276804f6f3fa8fb.png",
@@ -11,12 +11,12 @@
     "static/media/PhilSA.png": "/personal/static/media/PhilSA.1379d49bf6fb468fbea4.png",
     "static/media/algofilipino.png": "/personal/static/media/algofilipino.41cd250ab965a56d519a.png",
     "index.html": "/personal/index.html",
-    "main.8f4f5d8d.css.map": "/personal/static/css/main.8f4f5d8d.css.map",
-    "main.03c38216.js.map": "/personal/static/js/main.03c38216.js.map",
+    "main.f5496807.css.map": "/personal/static/css/main.f5496807.css.map",
+    "main.8df5ca00.js.map": "/personal/static/js/main.8df5ca00.js.map",
     "787.ada81fb9.chunk.js.map": "/personal/static/js/787.ada81fb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f4f5d8d.css",
-    "static/js/main.03c38216.js"
+    "static/css/main.f5496807.css",
+    "static/js/main.8df5ca00.js"
   ]
 }
