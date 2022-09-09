@@ -15,6 +15,16 @@ export default function Industry(){
                 <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 4, sm: 8, md: 12 }}>
                     <Grid item xs={2} sm={4} md={4}>
                         <Item style={{height: '300px'}}>
+                            <h1 className="gridHead2">Associate Data Engineer</h1>
+                            <h4 className="highlight gridHead4" style={{lineHeight: 0}}> September 2022 - Present</h4>
+                            <Chip style={{color: '#fff'}} label="Signant Health" variant="outlined" />
+                            <p className="gridPar2">
+                                ---
+                            </p>
+                        </Item>
+                    </Grid>
+                    <Grid item xs={2} sm={4} md={4}>
+                        <Item style={{height: '300px'}}>
                             <h1 className="gridHead2">Data Analyst</h1>
                             <h4 className="highlight gridHead4" style={{lineHeight: 0}}> July - August 2022</h4>
                             <Chip style={{color: '#fff'}} label="Go InnoV8 Inc." variant="outlined" />

@@ -5,35 +5,7 @@ import Button from '@mui/material/Button';
 import Grid from '@mui/material/Grid';
 import { buttonDesign} from '../../stylesheets/buttonStyles';
 import { Chip } from '@mui/material';
-
-const CertCard = {
-    backgroundColor: 'transparent',
-    borderColor: 'white',
-    borderStyle: 'solid',
-    borderWidth: 1,
-    padding: 3,
-    //overflowY: 'auto',
-    color: '#fff',
-    height: 250,
-    '&:hover': {
-        transition: 'all 0.1s linear',
-        backgroundColor: '#424549',
-        color: '#fff',
-    },
-    ['@media only screen and (max-width: 900px)']:{
-        marginLeft: 2,
-        marginRight: 2,
-        padding: 0,
-        textAlign: 'center',
-        paddingTop: '15%'
-    }
-};
-
-const certButton = {
-    ['@media only screen and (max-width: 900px)']:{
-        justifyContent: 'center',
-    }
-}
+import { certButton, CertCard } from '../../stylesheets/cardStyles';
 
 export default function Certificates(){
     return(
@@ -44,6 +16,21 @@ export default function Certificates(){
                 <br/>
 
                 <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 2, sm: 8, md: 12 }}>
+                    <Grid item xs={2} sm={4} md={4}>
+                        <Card sx={CertCard}>
+                            <CardContent>
+                                <h1 className="gridHead2">
+                                    Vector Data Processing using Python
+                                </h1>
+                                <Chip style={{color: '#fff'}} label="Philippine Space Agency" variant="outlined" />
+                            </CardContent>
+                            <CardActions sx={certButton}>
+                                <Button sx={buttonDesign} size="small" target="_blank" href='https://drive.google.com/file/d/1r3qJYmidAiKW4WloTy_DX9-FixrxAmoP/view'>
+                                    See Certificate
+                                </Button>
+                            </CardActions>
+                        </Card>
+                    </Grid>
                     <Grid item xs={2} sm={4} md={4}>
                         <Card sx={CertCard}>
                             <CardContent>

@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 
 import AboutMe from "./components/main/AboutMe";
+import Blogs from "./components/main/Blogs";
 import Certificates from "./components/main/Certificates";
 import Contact from "./components/main/Contact";
 import Education from "./components/main/Education";
