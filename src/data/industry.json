@@ -1,0 +1,61 @@
+{
+    "lastUpdated": "2023-05-06T08:00:00Z",
+    "industryData": [
+        {
+            "id": 1,
+            "position": "Freelance Writer",
+            "company": "Livingston Research",
+            "dateRange": "May 2018 - January 2022",
+            "description": "Developed reports and papers for different clientele. Wrote essays and academic papers. Wrote resumes and CVs for customers.",
+            "avatar": null
+        },
+        {
+            "id": 2,
+            "position": "Program Coordinator",
+            "company": "Algo Filipino",
+            "dateRange": "March 2021 - May 2021",
+            "description": "Responsible for the creation, planning, and eecution of the organization's programs about technology. Spearheads mitigation of all possible scenarios that might happen before, during, and after an event.",
+            "avatar": "../../static/images/algofilipino.png"
+        },
+        {
+            "id": 3,
+            "position": "Space Data Mobilization and Applications Intern",
+            "company": "Philippine Space Agency",
+            "dateRange": "April - July 2022",
+            "description": "Responsible for digitization tasks of satellite imagery for feature extraction as training data for classification of different model classes. Handles training and creation of AI models for image classification of satellite images. Maps disaster aftermaths using SAR and optical imageries. Geocodes datasets for geoinformatics use. Assisted in the development of a newly revamped Space Data Dashboard using React and GeoDjango.",
+            "avatar": "../../static/images/PhilSA.png"
+        },
+        {
+            "id": 4,
+            "position": "Data Analyst Intern",
+            "company": "Go InnoV8 Inc.",
+            "dateRange": "March - July 2022",
+            "description": "Responsible for simulating different scenarios based on data. Gather, clean, and visualize data from databases to generate business insights and imperatives. Create reports based on data analysis to be presented to the executives. Generate database schema for NoSQL databases for new data structures.",
+            "avatar": null
+        },
+        {
+            "id": 5,
+            "position": "Data Analyst",
+            "company": "Go InnoV8 Inc.",
+            "dateRange": "July 2022 - April 2023",
+            "description": "Designed the organization's data infrastructure and pipeline for business analytics. Performed countless of data engineering methods to extract, transform, clean, and ingest data from one source to another. Planned new data models to incorporate newly designed and planned features. Conducted data analytics on requested insights by the management. Written pipelines for key features required by the game.",
+            "avatar": null
+        },
+        {
+            "id": 6,
+            "position": "Associate Data Engineer",
+            "company": "Signant Health",
+            "dateRange": "September 2022 - April 2023",
+            "description": "Responsible for data integrity checks before committing data changes to production database. Triages different data fix and data load operations to database. Performs code reviews of SQL scripts before committing transactions to production databases.",
+            "avatar": null
+        },
+        {
+            "id": 7,
+            "position": "Data Analyst",
+            "company": "Cambridge University Press & Assessment",
+            "dateRange": "April 2023 - Present",
+            "description": "Assigned under the Data Science team.",
+            "avatar": "../../static/images/CoatofArmsCambridge.png"
+        }
+    ]
+}
